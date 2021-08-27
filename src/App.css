@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  height:100%;
+}
+.nav-active{
+  border-bottom: 4px solid teal;
+  border-right: 1px solid teal;
+  border-left: 1px solid teal;
+  border-top: 1px solid teal;
+}
